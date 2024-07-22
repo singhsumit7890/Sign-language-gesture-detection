@@ -1,4 +1,4 @@
-# sign-language-recognition-using-convolutional-neural-networks
+# sign-language-gesture-recognition
 ## sign language recognition using convolutional neural networks tensorflow tflean opencv and python
 
 ### Software Specification<br />
@@ -21,7 +21,6 @@ pip3 install imutils
 sudo pip3 install  python-dateutil==2.5.0  
 
  ## Output of the Project
-### Video
 ### Ubuntu
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
 ### Raspberry Pi
