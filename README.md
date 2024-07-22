@@ -1,4 +1,4 @@
-# sign-language-gesture-recognition#
+# sign-language-gesture-recognition
 ## sign language recognition using convolutional neural networks tensorflow opencv and python
 
 ### Software Specification<br />
