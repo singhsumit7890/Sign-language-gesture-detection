@@ -1,5 +1,5 @@
-# sign-language-gesture-recognition
-## sign language recognition using convolutional neural networks tensorflow tflean opencv and python
+# sign-language-gesture-recognition#
+## sign language recognition using convolutional neural networks tensorflow opencv and python
 
 ### Software Specification<br />
 tensorflow version : 1.4.0<br />
